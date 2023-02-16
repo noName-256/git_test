@@ -1,0 +1,5 @@
+Hello world. It is funny, I thought hello world is supposed
+to be used to languages like c++ or js or HTML(which is not a
+language but close enough). But this is not the case here.
+
+Nevertheless I am having fun
